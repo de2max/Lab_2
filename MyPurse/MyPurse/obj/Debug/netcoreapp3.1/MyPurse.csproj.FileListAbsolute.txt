@@ -1,0 +1,13 @@
+Z:\GitHub\Lab_2\MyPurse\MyPurse\bin\Debug\netcoreapp3.1\MyPurse.exe
+Z:\GitHub\Lab_2\MyPurse\MyPurse\bin\Debug\netcoreapp3.1\MyPurse.deps.json
+Z:\GitHub\Lab_2\MyPurse\MyPurse\bin\Debug\netcoreapp3.1\MyPurse.runtimeconfig.json
+Z:\GitHub\Lab_2\MyPurse\MyPurse\bin\Debug\netcoreapp3.1\MyPurse.runtimeconfig.dev.json
+Z:\GitHub\Lab_2\MyPurse\MyPurse\bin\Debug\netcoreapp3.1\MyPurse.dll
+Z:\GitHub\Lab_2\MyPurse\MyPurse\bin\Debug\netcoreapp3.1\MyPurse.pdb
+Z:\GitHub\Lab_2\MyPurse\MyPurse\obj\Debug\netcoreapp3.1\MyPurse.csprojAssemblyReference.cache
+Z:\GitHub\Lab_2\MyPurse\MyPurse\obj\Debug\netcoreapp3.1\MyPurse.csproj.CoreCompileInputs.cache
+Z:\GitHub\Lab_2\MyPurse\MyPurse\obj\Debug\netcoreapp3.1\MyPurse.AssemblyInfoInputs.cache
+Z:\GitHub\Lab_2\MyPurse\MyPurse\obj\Debug\netcoreapp3.1\MyPurse.AssemblyInfo.cs
+Z:\GitHub\Lab_2\MyPurse\MyPurse\obj\Debug\netcoreapp3.1\MyPurse.dll
+Z:\GitHub\Lab_2\MyPurse\MyPurse\obj\Debug\netcoreapp3.1\MyPurse.pdb
+Z:\GitHub\Lab_2\MyPurse\MyPurse\obj\Debug\netcoreapp3.1\MyPurse.genruntimeconfig.cache

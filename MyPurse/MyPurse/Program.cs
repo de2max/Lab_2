@@ -6,7 +6,8 @@ namespace MyPurse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BuisnesCard bCard = new BuisnesCard("101");
+            Console.WriteLine(bCard.info());
         }
     }
 }

@@ -1,7 +1,5 @@
 # Lab_2
-fsdafasdfas dgasdfg sdfgg sdf g sdf
-asdfgasdfghsdfg
-sfgsdfgsdfg
+С2544765412364237895412354
 sdfgsdfgs
 Система контролю версій
 sdfsdfsdfsdfd
